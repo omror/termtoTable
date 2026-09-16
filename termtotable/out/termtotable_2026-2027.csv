@@ -1,0 +1,16 @@
+﻿id,ogretim_yili,kategori,olay,baslangic,bitis,baslangic_gunu,bitis_gunu,takvim_gunu,okul_tatili,kademe,dogrulama,kaynak
+1,2026-2027,Mesleki Çalışma,Öğretmenlerin yıl başı mesleki çalışmaları,2026-09-01,,Salı,,,Hayır,Öğretmen,meb,https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr
+2,2026-2027,Uyum Eğitimi,Okul öncesi ve ilkokul 1. sınıf uyum eğitimi,2026-09-07,2026-09-11,Pazartesi,Cuma,5,Hayır,Okul öncesi + İlkokul 1,meb,https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr
+3,2026-2027,Dönem,1. dönem (birinci yarıyıl),2026-09-14,2027-01-22,Pazartesi,Cuma,131,Hayır,Tüm kademeler,meb,https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr
+4,2026-2027,Resmî Tatil,Cumhuriyet Bayramı,2026-10-29,2026-10-29,Perşembe,Perşembe,1,Evet,Tüm kademeler,kanun,2429 sayılı Ulusal Bayram ve Genel Tatiller Kanunu
+5,2026-2027,Ara Tatil,1. dönem ara tatili,2026-11-16,2026-11-20,Pazartesi,Cuma,5,Evet,Tüm kademeler,meb,https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr
+6,2026-2027,Resmî Tatil,Yılbaşı,2027-01-01,2027-01-01,Cuma,Cuma,1,Evet,Tüm kademeler,kanun,2429 sayılı Ulusal Bayram ve Genel Tatiller Kanunu
+7,2026-2027,Yarıyıl Tatili,Yarıyıl (sömestr) tatili,2027-01-25,2027-02-05,Pazartesi,Cuma,12,Evet,Tüm kademeler,meb,https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr
+8,2026-2027,Dönem,2. dönem (ikinci yarıyıl),2027-02-08,2027-06-25,Pazartesi,Cuma,138,Hayır,Tüm kademeler,meb,https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr
+9,2026-2027,Ara Tatil,2. dönem ara tatili,2027-03-08,2027-03-12,Pazartesi,Cuma,5,Evet,Tüm kademeler,meb,https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr
+10,2026-2027,Dinî Bayram,Ramazan Bayramı,2027-03-09,2027-03-11,Salı,Perşembe,3,Evet,Tüm kademeler,diyanet,Diyanet İşleri Başkanlığı dinî günler takvimi
+11,2026-2027,Resmî Tatil,Ulusal Egemenlik ve Çocuk Bayramı,2027-04-23,2027-04-23,Cuma,Cuma,1,Evet,Tüm kademeler,kanun,2429 sayılı Ulusal Bayram ve Genel Tatiller Kanunu
+12,2026-2027,Resmî Tatil,Emek ve Dayanışma Günü,2027-05-01,2027-05-01,Cumartesi,Cumartesi,1,Evet,Tüm kademeler,kanun,2429 sayılı Ulusal Bayram ve Genel Tatiller Kanunu
+13,2026-2027,Dinî Bayram,Kurban Bayramı,2027-05-16,2027-05-19,Pazar,Çarşamba,4,Evet,Tüm kademeler,diyanet,Diyanet İşleri Başkanlığı dinî günler takvimi
+14,2026-2027,Resmî Tatil,"Atatürk'ü Anma, Gençlik ve Spor Bayramı",2027-05-19,2027-05-19,Çarşamba,Çarşamba,1,Evet,Tüm kademeler,kanun,2429 sayılı Ulusal Bayram ve Genel Tatiller Kanunu
+15,2026-2027,Yıl Sonu,Eğitim-öğretim yılının sona ermesi / karne,2027-06-25,,Cuma,,,Hayır,Tüm kademeler,meb,https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr
